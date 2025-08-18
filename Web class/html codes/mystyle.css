@@ -1,0 +1,26 @@
+/*global*/
+*{
+    margin:0;
+    padding:0;
+}
+body{
+    font-family :arial;
+    background-color: rgb(87, 207, 6);
+    color: aliceblue;
+}
+p{
+    font-size: 17px;
+    line-height: 2;
+}
+
+header{
+    background-color: aqua;
+    height: 300px;
+    color: black;
+}
+h1{
+    font-size: 72px;
+}
+h2{
+    font-size: 35px;
+}
